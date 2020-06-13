@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Finance-tracker social media app from Ruby on Rails course
+Work In Progress
 
 Things you may want to cover:
 
